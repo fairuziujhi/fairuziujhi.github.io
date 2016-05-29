@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About
+title: About ME
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-
-<h1> ABOUT ME </h1>
-
 
  <img src="/assets/img/uji.jpg" height="42" width="42"> 
 
