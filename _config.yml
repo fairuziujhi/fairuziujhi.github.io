@@ -9,7 +9,7 @@ background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://fairuziujhi.github.io/
-facebook:          https://www.facebook.com/fairuzi.jholamunkitunamodennyo
+
 
 # Jekyll
 permalink:          /:title/
@@ -46,6 +46,7 @@ github:             fairuziujhi.github.io
 #linkedin:          username
 #xing:              username
  instagram:         fairuzi_
+ facebook:          https://www.facebook.com/fairuzi.jholamunkitunamodennyo
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
