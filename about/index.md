@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-##biodata
+
 
 
  <img src="/assets/img/uji.jpg" height="42" width="42"> 
